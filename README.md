@@ -29,7 +29,6 @@ Hello, I'm Siranjeevi Gurumani, a dedicated computational biologist with a speci
 
 ## Contact
 
-- **Email:** [siranguru10@gmail.com](mailto:siranguru10@gmail.com)
 - **LinkedIn:** [linkedin.com/in/siranguru/](https://www.linkedin.com/in/siranguru/)
 
 ---
