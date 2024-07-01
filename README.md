@@ -28,7 +28,7 @@ Hello, I'm Siranjeevi Gurumani, a dedicated computational biologist with a speci
 - **Languages:** English, Tamil, Telugu, Hindi
 
 ## Links
-- [Linkedin](https://www.linkedin.com/in/siranguru/)
+- [LinkedIn](https://www.linkedin.com/in/siranguru/)
 - [Mathworks: Matlab Cody](https://in.mathworks.com/matlabcentral/profile/authors/8954354?detail=cody)
 
 ---
