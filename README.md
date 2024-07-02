@@ -11,7 +11,7 @@ Hello, I'm Siranjeevi Gurumani, a dedicated computational biologist with a speci
 ### MetFlux Research
 **Decision Scientist**  
 
-- whole-body energy balance model
+- Whole-body energy balance model (KD Hall Model)
 - Glucose-Insulin Simbiology model
 - Liver Metabolism model
 - N-Compartmental PK model
