@@ -20,6 +20,7 @@ Hello, I'm Siranjeevi Gurumani, a dedicated computational biologist with a speci
 **Master of Science by research - MS(r), Biology/Biological Sciences**  
 
 - Mathematical modeling of TNFα induced TNFR1 mediated IKK and NF-κB response: TRIN model.
+- Symbolic modelling of Dimensionality reduced TNF induced NF-κB pathway.
 - Yeast (Saccharomyces cerevisiae) Process control model: Sonnleitner model.
 
 ## Skills
