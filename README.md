@@ -26,7 +26,7 @@ Hello, I'm Siranjeevi Gurumani, a dedicated computational biologist with a speci
 ## Skills
 
 - **Programming Languages:** Matlab, Python, Julia, R programming
-- **Languages:** English, Tamil, Telugu, Hindi
+- **Communicating Languages:** English, Tamil, Telugu, Hindi
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/siranguru/)
